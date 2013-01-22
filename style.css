@@ -1,0 +1,40 @@
+#all
+{	background-color:rgb(33,33,33);	
+	background-position:center;	
+	background-image:url(satyam.jpg);
+	background-repeat: no-repeat;
+	font-style:barkentina;
+	color:white;
+}
+.container
+{	text-align:left;	
+	border-radius: 10px 10px;
+	background-color: rgba(11,11,11,0.75);
+	border:rgb(40, 40, 230);
+	box-shadow: 5px 5px 20px rgba(20, 20, 20, 0.8);
+	padding: 20px 20px;
+	width: 400px;
+	margin: 40px 100px 10px 180px;
+}
+.opac
+{	opacity:0.8;
+}
+.opac:hover
+{	opacity:1;
+}
+.para
+{	font-size:16px;
+	line-height:20px;
+	font-style:italic;
+	
+}
+.heading
+{	font-size:32px;
+	font-style:italic;
+	font-weight:bold;
+	padding:0px 0px 4px 0px;
+}
+.tagline
+{	font-size:26px;
+	font-style:italic;
+}
