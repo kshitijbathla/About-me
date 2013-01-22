@@ -18,6 +18,8 @@
 }
 .opac
 {	opacity:0.8;
+	-webkit-transition: all 1s;
+	transition: all 1s;
 }
 .opac:hover
 {	opacity:1;
@@ -37,4 +39,7 @@
 .tagline
 {	font-size:26px;
 	font-style:italic;
+}
+.link
+{	color:rgb(200,200,20);
 }
